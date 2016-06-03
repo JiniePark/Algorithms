@@ -1,3 +1,4 @@
 # Algorithms
 
-hello world
+hello worl
+i want to study git
