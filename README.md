@@ -1,3 +1,3 @@
-# Study
+# study
 
-* react_tutorials : react.js
+* react_tutorial : initial files of react.js
